@@ -102,7 +102,7 @@ All Object Oriented Programming Using JAVA Laboratory (PCC-CS594D) assignments f
 Implement the below Diagram. Here `AbstractProduct` is only abstract class. | ![ProductTest](DAY-9/Class-Diagram/ProductTest.png) | [link](DAY-9/ProductTest.java) |
 Implement the below Diagram. Here, `Asset` class is an abstract class containing an abstract method `displayDetails()` method. `Stock`, `Bond` and `Savings` class inherit the `Asset` class and `displayDetails()`method is defined in every class. | ![AssetTest](DAY-9/Class-Diagram/AssetTest.png) | [link](DAY-9/AssetTest.java) |
 
-# DAY-9
+# DAY-10
 | Question | Class Diagram | Link |
 |----------|---------------|------|
 | Create an interface `Department` containing attributes `deptName` and `deptHead`. It also has abstract methods for printing the attributes. Create a class hostel containing `hostelName`, `hostelLocation` and `numberofRooms`. The class contains methods for getting and printing the attributes. Then write `Student` class extending the `Hostel` class and implementing the `Department` interface. This class contains attributes `studentName`, `regdNo`, `electiveSubject` and `avgMarks`. Write suitable `getData` and `printData` methods for this class. Also implement the abstract methods of the `Department` interface. Write a driver class to test the `Student` class. The program should be menu driven containing the options: <br>&nbsp;&nbsp;&nbsp; (a) Admit new student <br>&nbsp;&nbsp;&nbsp; (b) Migrate a student <br>&nbsp;&nbsp;&nbsp; (c) Display details <br>For the second option a search is to be made on the basis of the entered registration number. <br> | ![StudentTest](DAY-10/Class-Diagrams/StudentTest.png) | [link](DAY-10/StudentTest.java) |
