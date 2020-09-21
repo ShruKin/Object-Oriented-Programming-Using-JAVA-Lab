@@ -76,9 +76,14 @@ All Object Oriented Programming Using JAVA Laboratory (PCC-CS594D) assignments f
 # DAY-7
 | Question | Link |
 |----------|------|
-| Write a Java program to pass the string “Have a nice day!” from the command line, and display each word in a new line. Use proper import statement for this program. | [link](DAY-6/Program1.java) |
-| Write a Java class called CountAndPrintArgs to print the number of arguments passed on the command-line as well as the 1st letter of the arguments. For example, if the command line arguments are: “Mango Cucumber Apple” then the output will be<br>No. of arguments – 3 MCA<br>Write a main method to test the class.<br> | [link](DAY-6/CountAndPrintArgs.java) |
-| Write a program to accept a string from the user and find out the following statistics:<br>&nbsp;&nbsp;&nbsp; a) Count of uppercase character<br>&nbsp;&nbsp;&nbsp; b) Count of lowercase character<br>&nbsp;&nbsp;&nbsp; c) Count of digits<br>&nbsp;&nbsp;&nbsp; d) Count of spaces<br> | [link](DAY-6/Program3.java) |
-| Write a program that takes a String from the user on the command-line and print it in reverse.<br>This is a test” must be printed as: “test a is This”. | [link](DAY-6/Reverse.java) |
-| Write a Java program to change lower case to upper case and vice versa.<br>Example: - HellO WoRlD OUTPUT: - hELLo wOrLd | [link](DAY-6/Program5.java) |
-| Write a Java program to replace all the ‘d’ characters with ‘f’ characters from the given string | [link](DAY-6/Program6.java) |
+| Write a Java program to pass the string “Have a nice day!” from the command line, and display each word in a new line. Use proper import statement for this program. | [link](DAY-7/Program1.java) |
+| Write a Java class called CountAndPrintArgs to print the number of arguments passed on the command-line as well as the 1st letter of the arguments. For example, if the command line arguments are: “Mango Cucumber Apple” then the output will be<br>No. of arguments – 3 MCA<br>Write a main method to test the class.<br> | [link](DAY-7/CountAndPrintArgs.java) |
+| Write a program to accept a string from the user and find out the following statistics:<br>&nbsp;&nbsp;&nbsp; a) Count of uppercase character<br>&nbsp;&nbsp;&nbsp; b) Count of lowercase character<br>&nbsp;&nbsp;&nbsp; c) Count of digits<br>&nbsp;&nbsp;&nbsp; d) Count of spaces<br> | [link](DAY-7/Program3.java) |
+| Write a program that takes a String from the user on the command-line and print it in reverse.<br>This is a test” must be printed as: “test a is This”. | [link](DAY-7/Reverse.java) |
+| Write a Java program to change lower case to upper case and vice versa.<br>Example: - HellO WoRlD OUTPUT: - hELLo wOrLd | [link](DAY-7/Program5.java) |
+| Write a Java program to replace all the ‘d’ characters with ‘f’ characters from the given string | [link](DAY-7/Program6.java) |
+
+# DAY-8
+| Question | Class Diagram | Link |
+|----------|---------------|------|
+| Create a general class `ThreeDObject` and derive the classes `Box`, `Cube`, `Cylinder` and `Cone` from it. The class `ThreeDObject` has methods `wholeSurfaceArea()` and `volume()`. Override these two methods in each of the derived classes to calculate the volume and whole surface area of each type of three-dimensional objects. The dimensions of the objects are to be taken from the users and passed through the respective constructors of each derived class. Write a main method to test these classes. | ![ThreeDObject](DAY-8/Class-Diagrams/ThreeDObject.png) | [link](DAY-8/ThreeDObjectTest.java) |
