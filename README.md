@@ -23,3 +23,8 @@ All Object Oriented Programming Using JAVA Laboratory (PCC-CS594D) assignments f
 | Write a Java program to calculate factorial of a number. | [link](DAY-2/Assignments/Factorial.java) |
 | Write a Java program for Fibonacci series. | [link](DAY-2/Assignments/FibonacciSeries.java) |
 | Write a Java program to reverse a number. | [link](DAY-2/Assignments/ReverseOfNumber.java) |
+
+# DAY-3
+| Question | Link |
+|----------|------|
+| Number Pattern Program in Java<br>1<br>2 3<br>4 5 6<br>7 8 9 10<br>11 12 13 14 15<br> | [link](DAY-3/Assignments/NumberPattern1.java) |
