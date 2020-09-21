@@ -29,10 +29,13 @@ All Object Oriented Programming Using JAVA Laboratory (PCC-CS594D) assignments f
 |----------|------|
 | Number Pattern Program in Java:<br>1<br>2 3<br>4 5 6<br>7 8 9 10<br>11 12 13 14 15<br> | [link](DAY-3/Assignments/NumberPattern1.java) |
 | Number Pattern Program in Java:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 1 2<br>&nbsp;&nbsp;  3 2 1 2 3<br>4 3 2 1 2 3 4<br>| [link](DAY-3/Assignments/NumberPattern2.java) |
-| Pattern Program in Java: | [link](DAY-3/Assignments/NumberPattern1.java) |
+| Pattern Program in Java:<br>\***********<br>&nbsp;\*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *<br>&nbsp;&nbsp;&nbsp;\*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp;&nbsp; *<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*<br> | [link](DAY-3/Assignments/StarPattern1.java) |
+| Write a Java program to calculate Sum & Average of an integer array. | [link](DAY-3/Assignments/SumAvgArray.java) |
+| Write a Java program to find out the maximum & minimum integer of array. | [link](DAY-3/Assignments/MinMaxArray.java) |
+| Write a Java program to calculate Sum of two 2-dimensional arrays. | [link](DAY-3/Assignments/MatSum.java) |
+| Write a Java program to search an element in an array. | [link](DAY-3/Assignments/SearchArr.java) |
+| Write a Java program to find the sum of even numbers in an integer array. | [link](DAY-3/Assignments/SumEvenArray.java) |
+| Write a Java program to find the sum of diagonal elements in a 2D array. | [link](DAY-3/Assignments/MatDiagonalSum.java) |
+| Find difference between sums of two diagonals in a 2D array. | [link](DAY-3/Assignments/DiffSumDigonal.java) |
+| Reverse the elements in an array of integers without using a second array. | [link](DAY-3/Assignments/ReverseArray.java) |
 
-\***********<br>
-&nbsp;\*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *<br>
-&nbsp;&nbsp;&nbsp;\*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp;&nbsp; *<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*<br>
