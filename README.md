@@ -9,3 +9,17 @@ All Object Oriented Programming Using JAVA Laboratory (PCC-CS594D) assignments f
 | Write a Java program to change temperature from Celsius to Fahrenheit. | [link](DAY-1/Assignments/ChangeTemp.java) |
 | Write a Java program to find the area and perimeter of a rectangle. | [link](DAY-1/Assignments/AreaPerimeter.java) |
 | Write a Java program to display whether a number is odd or even. | [link](DAY-1/Assignments/OddEven.java) |
+
+# DAY-2
+| Question | Link |
+|----------|------|
+| Write a Java Program to check if a number is Positive or Negative. | [link](DAY-2/Assignments/PosNeg.java) |
+| Write a Java program to find maximum of three numbers. | [link](DAY-2/Assignments/MaxOfThree.java) |
+| Write a Java program to swap two numbers. | [link](DAY-2/Assignments/SwapNums.java) |
+| Write a Java program to convert miles to kilometres. | [link](DAY-2/Assignments/MltoKm.java) |
+| Write a Java program to check whether a year is leap year or not. | [link](DAY-2/Assignments/IsLeap.java) |
+| Write a Java program for following grading system. | [link](DAY-2/Assignments/Grading.java) |
+| Write a Java program to check whether a number is divisible by 5 or not. | [link](DAY-2/Assignments/Div5.java) |
+| Write a Java program to calculate factorial of a number. | [link](DAY-2/Assignments/Factorial.java) |
+| Write a Java program for Fibonacci series. | [link](DAY-2/Assignments/FibonacciSeries.java) |
+| Write a Java program to reverse a number. | [link](DAY-2/Assignments/ReverseOfNumber.java) |
