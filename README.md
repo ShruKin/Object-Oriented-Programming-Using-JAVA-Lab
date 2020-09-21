@@ -27,4 +27,5 @@ All Object Oriented Programming Using JAVA Laboratory (PCC-CS594D) assignments f
 # DAY-3
 | Question | Link |
 |----------|------|
-| Number Pattern Program in Java<br>1<br>2 3<br>4 5 6<br>7 8 9 10<br>11 12 13 14 15<br> | [link](DAY-3/Assignments/NumberPattern1.java) |
+| Number Pattern Program in Java:<br>1<br>2 3<br>4 5 6<br>7 8 9 10<br>11 12 13 14 15<br> | [link](DAY-3/Assignments/NumberPattern1.java) |
+| Number Pattern Program in Java:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 1 2<br>&nbsp;&nbsp;  3 2 1 2 3<br>4 3 2 1 2 3 4<br>| [link](DAY-3/Assignments/NumberPattern2.java) |
