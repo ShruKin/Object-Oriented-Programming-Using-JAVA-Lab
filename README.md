@@ -39,3 +39,16 @@ All Object Oriented Programming Using JAVA Laboratory (PCC-CS594D) assignments f
 | Find difference between sums of two diagonals in a 2D array. | [link](DAY-3/Assignments/DiffSumDigonal.java) |
 | Reverse the elements in an array of integers without using a second array. | [link](DAY-3/Assignments/ReverseArray.java) |
 
+# DAY-4
+| Question | Link |
+|----------|------|
+| Write a Java program to multiply two matrices. | [link](DAY-4/MatMult.java) |
+| Write a Java program to subtract two matrices. | [link](DAY-4/MatDiff.java) |
+| Program to find the frequency of each element of an array. | [link](DAY-4/FrequecyArray.java) |
+| Write a Java program to print every alternate number of a given array. | [link](DAY-4/AlternateArray.java) |
+| Given are two one-dimensional arrays A & B, which are sorted in ascending order. Write a Java program to merge them into single sorted array C that contains every item from arrays A & B, in ascending order. | [link](DAY-4/SortedMerge.java) |
+| Write a Java program to show 0-arguments constructor. | [link](DAY-4/ComplexTest.java) |
+| Write a Java program to show parameterized constructor. | [link](DAY-4/ComplexTest.java) |
+| Write a Java program to show constructor overloading. | [link](DAY-4/ComplexTest.java) |
+| Write a class, `Commission`, which has an instance variable, `sales`; an appropriate constructor; and a method, `commission()` that returns the commission. Now write a demo class to test the `Commission` class by reading a sale from the user, using it to create a Commission object after validating that the value is not negative. Finally, call the `commission()` method to get and print the commission. If the sales are negative, your demo should print the message “Invalid Input”. | [link](DAY-4/CommissionTest.java) |
+| Circle Class | [link](DAY-4/CircleTest.java) |
